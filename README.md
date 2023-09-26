@@ -4,7 +4,6 @@
 ## Features:
 - **Multi-Content Generation**: Create images, videos, music, code, and text chat effortlessly with AI-powered tools.
 - **User-Friendly Interface**: An intuitive and responsive user interface designed for seamless content creation.
-- **Subscription-Based Billing**: Flexible subscription options for premium features via Stripe integration.
 - **AI Integration**: Harness the power of OpenAI and Replicate AI for diverse content generation.
 - **Efficient Data Management**: Optimize routing and direct database access for efficient data handling.
 - **Customizable**: Tailor the AI-generated content to meet your specific creative needs.
