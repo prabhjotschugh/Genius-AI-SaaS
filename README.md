@@ -23,7 +23,7 @@
 
 ![Image](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/aca67541-6e39-4046-a541-1866db7cf15c)
 
-![Video](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/f2e48435-b3c7-4c0c-aeab-c9bfe11e505c)
+![Video](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/5ec787d2-3d82-4d29-b424-1233f1a49f1a)
 
 ![Music](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/928b6e8d-2f5e-45fc-89fb-5c4a8195250f)
 
