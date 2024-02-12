@@ -18,8 +18,20 @@
 ## Dashboard
 ![Dashboard](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/62092062-c235-43ef-87ea-e16810d5bc13)
 
+## Generated Outputs
+![Conversation](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/9539d6b5-f867-41b2-a615-3ee2d8d8134e)
+
+![Image](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/aca67541-6e39-4046-a541-1866db7cf15c)
+
+![Video](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/f2e48435-b3c7-4c0c-aeab-c9bfe11e505c)
+
+![Music](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/928b6e8d-2f5e-45fc-89fb-5c4a8195250f)
+
+![Code](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/b5c702f2-4f1b-4916-8169-19b080d1a57a)
+
 ## Live Demo
 https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/09876671-ada1-4647-9275-6c502bbc05b5
+
 
 To run the app - 
 ## Install packages
