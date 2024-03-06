@@ -13,21 +13,25 @@
 - **Educational Resources**: Access tutorials and educational modules for maximizing platform capabilities.
 
 ## Homepage
-![Homepage](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/50ab5b4d-5079-41b4-a4cc-f08d14af7fa6)
+![1](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/f54a0298-dfe1-4cb5-bbd7-c67e2cb5487b)
+
 
 ## Dashboard
-![Dashboard](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/62092062-c235-43ef-87ea-e16810d5bc13)
+![2](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/37c084a7-328b-4eba-a045-a8f4e4471d60)
+
 
 ## Generated Outputs
-![Conversation](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/9539d6b5-f867-41b2-a615-3ee2d8d8134e)
+![3](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/de12efe2-8c9f-4869-9d7e-ba2e0694ccdc)
 
-![Image](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/aca67541-6e39-4046-a541-1866db7cf15c)
+![4](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/fc0a0aa5-9668-43a4-a95a-2939ca426a4f)
 
-![Video](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/5ec787d2-3d82-4d29-b424-1233f1a49f1a)
+![5](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/5cd91155-d7d4-4bd4-a02f-efae676ad1ae)
 
-![Music](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/928b6e8d-2f5e-45fc-89fb-5c4a8195250f)
+![6](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/1b226a4b-48da-46e1-8016-8320eb3df1e9)
 
-![Code](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/b5c702f2-4f1b-4916-8169-19b080d1a57a)
+![7](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/762618f3-9107-480e-85bd-406baed3b8e0)
+
+![8](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/c3f52408-819b-4e44-a100-a32b64ca4267)
 
 ## Live Demo
 https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/09876671-ada1-4647-9275-6c502bbc05b5
