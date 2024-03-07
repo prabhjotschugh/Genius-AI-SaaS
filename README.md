@@ -15,6 +15,8 @@
 ## Homepage
 ![1](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/f54a0298-dfe1-4cb5-bbd7-c67e2cb5487b)
 
+## Login 
+![Login](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/6ebdc6e2-0d86-4475-a052-2afd8dbca850)
 
 ## Dashboard
 ![2](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/37c084a7-328b-4eba-a045-a8f4e4471d60)
@@ -26,6 +28,13 @@
 ![4](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/fc0a0aa5-9668-43a4-a95a-2939ca426a4f)
 
 ![5](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/5cd91155-d7d4-4bd4-a02f-efae676ad1ae)
+
+![3](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/cfdd2147-0b20-4c28-aca5-a20adea4b1f8)
+
+![2](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/b1a78db5-1c6a-478f-ba94-168376021b23)
+
+![1](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/80720691-d1c2-4d74-bf9e-d4346d7e9580)
+
 
 ![6](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/1b226a4b-48da-46e1-8016-8320eb3df1e9)
 
